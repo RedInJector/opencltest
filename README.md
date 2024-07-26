@@ -3,6 +3,7 @@
 
 ## Output
 
+```
 ~/Desktop/opencltest  ./a.out
 loop
 loop
@@ -22,3 +23,4 @@ OpenCL error -5 at line 93
 loop
 OpenCL error -5 at line 93
 loop
+```
